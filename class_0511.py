@@ -119,14 +119,14 @@ def f(n):
     if n>2:
         return (n-1)*(f(n-1)+f(n-2))
 if __name__ == '__main__':
-    # print("n=5")
-    # star(5)
-    # print("n=6")
-    # star(6)
-    # data={"a":"aa","b":['{"c":"cc","d":"dd"}',{"f":{"e":"ee"}}]}
-    # print(json_to_dict(data))
-    # str = "我的名字是ha,今年20岁。"
-    # analysis(str)
+    print("n=5")
+    star(5)
+    print("n=6")
+    star(6)
+    data={"a":"aa","b":['{"c":"cc","d":"dd"}',{"f":{"e":"ee"}}]}
+    print(json_to_dict(data))
+    str = "我的名字是ha,今年20岁。"
+    analysis(str)
     print(f(4))
 
 
