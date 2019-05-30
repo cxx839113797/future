@@ -1,0 +1,8 @@
+2019-03-21 19:18:57,876-ERROR-&(filename)s-&(lineno)s-py15-��־��Ϣ:this is a error message
+2019-03-21 19:18:57,897-CRITICAL-&(filename)s-&(lineno)s-py15-��־��Ϣ:this is a critical message
+2019-03-21 19:19:53,242-ERROR-&(filename)s-&(lineno)s-py15-日志信息:this is a error message
+2019-03-21 19:19:53,242-CRITICAL-&(filename)s-&(lineno)s-py15-日志信息:this is a critical message
+2019-03-21 19:20:40,330-ERROR-log_config.py-37-py15-日志信息:this is a error message
+2019-03-21 19:20:40,330-CRITICAL-log_config.py-38-py15-日志信息:this is a critical message
+2019-03-21 19:21:20,658-ERROR-文件：log_config.py-37行-py15-日志信息:this is a error message
+2019-03-21 19:21:20,658-CRITICAL-文件：log_config.py-38行-py15-日志信息:this is a critical message
